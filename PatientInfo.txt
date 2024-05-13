@@ -1,0 +1,8 @@
+Name of the patient: Mr. Rajendra Prasad
+Patient Id: PA254678
+Ward No.: 7
+Bed No.: 21
+Contact Details:
+	Address: 12/c, Radheshyam Street, Kolkata-700033
+	Phone No.: 8769345225
+Medical Issue: Fracture in Wrist bone (mainly the carpel) and Hamate is missing.
